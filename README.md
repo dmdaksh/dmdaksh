@@ -10,7 +10,7 @@ I'm Daksh, a Machine Learning Engineer with experience in optimizing deep learni
 📫 **Reach Out:**  
 I'm actively looking for **MLE/SWE roles**—let’s connect!  
 📩 Email: [dmdaksh.97@gmail.com](mailto:dmdaksh.97@gmail.com)  
-🔗 [Linkedin][https://www.linkedin.com/in/daksh-maheshwari/]
+🔗 Linkedin: [https://www.linkedin.com/in/daksh-maheshwari/](https://www.linkedin.com/in/daksh-maheshwari/)
 
 
 ---
